@@ -31,6 +31,14 @@ React 기반 SPA로 재구현한 클론 프로젝트입니다.
 
 <br/>
 
+
+https://github.com/user-attachments/assets/ac4c9f3b-5100-4563-9620-cedb06abf16c
+
+https://github.com/user-attachments/assets/d163d87a-e3a2-4cf7-8809-75242a5bba03
+
+
+<br/>
+
 ## 🛠 기술 스택
 | 분야        | 사용 기술                           |
 | --------- | ------------------------------- |
